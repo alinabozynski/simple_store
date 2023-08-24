@@ -2,6 +2,7 @@
 <table>
 	<tr>
 		<th>Title</th>
+		<th>Category</th>
 		<th>Description</th>
 		<th>Price</th>
 		<th>Stock Quantity</th>
@@ -10,6 +11,7 @@
 <% @products.each do |product| %>
 	<tr>
 		<td><%= link_to product.title, product_path(product.id) %></td>
+		<td><%= product.category %></td>
 		<td><%= product.description %></td>
 		<td><%= product.price %></td>
 		<td><%= product.stock_quantity %></td>

@@ -12,15 +12,15 @@ Data for the second phase of the project was provided through a given CSV file.
 
 ## Project Details:
 
-*Bundler: 2.3.23
-*Ruby version: 2.7.6
-*Rails: 6.1.4.1
-*SQLite3: 1.4
-*Puma: 5.0
-*sass-rails: 6
-*webpacker: 5.0
-*turbolinks: 5
-*jbuilder: 2.7
+* Bundler: 2.3.23
+* Ruby version: 2.7.6
+* Rails: 6.1.4.1
+* SQLite3: 1.4
+* Puma: 5.0
+* sass-rails: 6
+* webpacker: 5.0
+* turbolinks: 5
+* jbuilder: 2.7
 
 Used Faker Gem for first phase of project before adding Category Model and loading data with CSV file.
 

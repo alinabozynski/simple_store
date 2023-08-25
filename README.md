@@ -1,4 +1,4 @@
-# README
+# Simple Store
 
 A simple Ruby on Rails store with a Product Model containing title, price, description, and stock quantity properties, 
 in which title, price, and stock quantity are required.
@@ -32,9 +32,9 @@ Clone repository in WSL.
 
 Run `rbenv install 2.7.6` to manage different Ruby versions when running the next commands.
 
-Run `bundle exec rake webpacker:install` to use Webpacker as the Rails wrapper with standard configuration.
-
 Run `bundle install` to ensure all dependencies and gems are installed.
+
+Run `bundle exec rake webpacker:install` to use Webpacker as the Rails wrapper with standard configuration.
 
 Run `rails db:migrate` to migrate the database.
 

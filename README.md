@@ -26,7 +26,7 @@ Used Faker Gem for first phase of project before adding Category Model and loadi
 
 ## To Run this Application
 
-Run in Windows Subsystem for Linux (Ubuntu) 
+Run in Windows Subsystem for Linux (Ubuntu) with Ruby on Rails and rbenv installed.
 
 Clone repository in WSL.
 
